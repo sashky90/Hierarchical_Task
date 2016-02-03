@@ -1,0 +1,6 @@
+c:\users\sasho\documents\visual studio 2013\Projects\Hierarchical_Task\Hierarchical_Task\bin\Debug\Hierarchical_Task.exe.config
+c:\users\sasho\documents\visual studio 2013\Projects\Hierarchical_Task\Hierarchical_Task\obj\Debug\Hierarchical_Task.csprojResolveAssemblyReference.cache
+c:\users\sasho\documents\visual studio 2013\Projects\Hierarchical_Task\Hierarchical_Task\bin\Debug\Hierarchical_Task.exe
+c:\users\sasho\documents\visual studio 2013\Projects\Hierarchical_Task\Hierarchical_Task\bin\Debug\Hierarchical_Task.pdb
+c:\users\sasho\documents\visual studio 2013\Projects\Hierarchical_Task\Hierarchical_Task\obj\Debug\Hierarchical_Task.exe
+c:\users\sasho\documents\visual studio 2013\Projects\Hierarchical_Task\Hierarchical_Task\obj\Debug\Hierarchical_Task.pdb
