@@ -1,0 +1,29 @@
+Imput1:
+
+Ivan
+Dimitur
+Nikolai - Anton
+Nikolai - Simeon
+Anton - Dragan
+Dragan - Petur
+Dragan - Blagoi
+Petur - Dimitur
+Blagoi - Ivan
+
+Input2:
+
+Anton
+Ivan
+Nikolai - Anton
+Nikolai - Simeon
+Anton - Dragan
+Dragan - Petur
+Dragan - Blagoi
+Petur - Dimitur
+Blagoi - Ivan
+
+Input3:
+
+Nikolai
+Simeon
+Nikolai - Simeon
